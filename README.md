@@ -16,7 +16,7 @@ The output summarizes each variable by average for each subject and each activit
 Here are the first few rows and columns :
 
 ```
-head(summary)
+
 
 Subject     Activity time_BodyAcc_mean_X time_BodyAcc_mean_Y time_BodyAcc_mean_Z time_BodyAcc_std_X
       1      Walking           0.2773308        -0.017383819          -0.1111481        -0.28374026
