@@ -60,7 +60,7 @@ Coded as factor, 6 different (levels) : *WALKING, WALKING UP, WALKING DOWN, SITT
 
 
 
-The measure variables detailed below comply with the *domain_measure_aggregation_dimension* norm:
+The measure variables detailed below are of the form domain_measure_gathering_dimension:
 
 ***
 
@@ -69,7 +69,7 @@ Domain (Unit) : time or frequency
 
 Measure : quantity of interest 
 
-Aggregation : indicates how were the initial variables aggregated (mean, frequency mean and standard deviation)  
+Gathering : indicates how were the initial variables gathered (mean, frequency mean and standard deviation)  
 
 Dimension : X, Y and Z measurement in an Euclidean norm  
 
