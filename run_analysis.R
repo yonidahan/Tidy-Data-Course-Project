@@ -91,7 +91,7 @@ colnames(merged)<-variables_names
 
 
 
-## Create a mean summary for each subject
+## Create a mean summary for each subject and each activity
 
 library(plyr)
 library(dplyr)
