@@ -87,6 +87,7 @@ Dimension : X, Y and Z measurement in an Euclidean norm
   
   Jerk angular velocity measured by the gyroscope : $rad*s^{-3}$
   
+  s^2
   
 
 ***
