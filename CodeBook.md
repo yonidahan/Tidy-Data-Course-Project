@@ -65,14 +65,24 @@ The measure variables detailed below are of the form domain_measure_gathering_di
 ***
 
 
-Domain (Unit) : time or frequency  
+Domain : time or frequency  
 
 Measure : quantity of interest 
 
 Gathering : indicates how were the initial variables gathered (mean, frequency mean and standard deviation)  
 
 Dimension : X, Y and Z measurement in an Euclidean norm  
+  
+***
 
+
+  
+##Units
+  
+  Acceleration signal from the smartphone accelerometer X,Y,Z axis : in standard gravity units "g"  
+  Angular velocity vector measured by the gyroscope : radian/second
+  
+  
 
 ***
 ***
