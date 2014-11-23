@@ -13,7 +13,19 @@ This repository contains an R script that takes as input the data set from the [
 
 The output summarizes each variable by average for each subject and each activity.
 
- 
+Here are the first few rows and columns :
+
+```
+head(summary)
+
+Subject     Activity time_BodyAcc_mean_X time_BodyAcc_mean_Y time_BodyAcc_mean_Z time_BodyAcc_std_X
+      1      Walking           0.2773308        -0.017383819          -0.1111481        -0.28374026
+      1   Walking Up           0.2554617        -0.023953149          -0.0973020        -0.35470803
+      1 Walking Down           0.2891883        -0.009918505          -0.1075662         0.03003534
+      1      Sitting           0.2612376        -0.001308288          -0.1045442        -0.97722901
+      1     Standing           0.2789176        -0.016137590          -0.1106018        -0.99575990
+      1       Laying           0.2215982        -0.040513953          -0.1132036        -0.92805647
+```
 
 
 #run_analysis.R
