@@ -182,7 +182,7 @@ time_BodyGyroJerkMag_mean, time_BodyGyroJerkMag_std, freq_BodyGyroJerkMag_mean, 
     **subject_test.txt** and **subject_train.txt** (test and training subjects)--(subject dataset)
 
 
-2.Obtain a vector which contain the position (column number) of each of the mean and standard deviation measurement, using the regular expressions in "features.txt"
+2.Obtain a vector which contains the position (column number) of each of the mean and standard deviation measurement, using the regular expressions in "features.txt"
 
 
 3.Subset the columns on mean and standard deviation in the merged dataset using the last vector 
