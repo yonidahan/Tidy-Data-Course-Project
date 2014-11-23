@@ -10,7 +10,7 @@ title: "CodeBook.md"
 
 
 #run_analysis.R Code Book
-This file describes the tidy dataframe of 180 observations and 88 variables yielded by run_analysis.R and the process to produce it.    
+This file describes the tidy dataset of 180 observations and 88 variables yielded by run_analysis.R and the process to produce it.    
 
 ***
 
@@ -18,7 +18,7 @@ This file describes the tidy dataframe of 180 observations and 88 variables yiel
 
 ***
 
-This file includes some of the data obtained from an experiment carried out at the University of Genoa with a group of     people within an age bracket of 19-48 years. Each subject performed six activities(WALKING, WALKING UPSTAIRS, WALKING DOWNSTAIRS  LAYING, SITTING) wearing a smartphone (Samsung Galaxy S II). Initially, a paper was published with the results from this experiment in a form of a dataset with the observations on 561 features. A summary of these features is displayed here, with its  average for each subject and each activity.
+This file includes some of the data obtained from an experiment carried out at the University of Genoa with a group of people within an age bracket of 19-48 years. Each subject performed six activities(WALKING, WALKING UPSTAIRS, WALKING DOWNSTAIRS  LAYING, SITTING) wearing a smartphone (Samsung Galaxy S II). Initially, a paper was published with the results from this experiment in a form of a dataset with the observations on 561 features. A summary of these features is displayed here, with its  average for each subject and each activity.
 
 ***
 
@@ -203,7 +203,7 @@ time_BodyGyroJerkMag_mean, time_BodyGyroJerkMag_std, freq_BodyGyroJerkMag_mean, 
 8.Label the data set with appropriately variable names
 
 
-9.Create an independent data frame with the average of the variables for each subject for each activity
+9.Create an independent data set with the average of the variables for each subject for each activity
   
 
 
