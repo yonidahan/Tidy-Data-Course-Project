@@ -65,10 +65,14 @@ The measure variables detailed below comply with the *domain_measure_aggregation
 ***
 
 
-Domain : time or frequency
+Domain (Unit) : time or frequency  
+
 Measure : quantity of interest 
-Aggregation : indicates how were the initial variables aggregated (mean, frequency mean and standard deviation)
-Dimension : X, Y and Z measurement in an Euclidean norm
+
+Aggregation : indicates how were the initial variables aggregated (mean, frequency mean and standard deviation)  
+
+Dimension : X, Y and Z measurement in an Euclidean norm  
+
 
 ***
 ***
