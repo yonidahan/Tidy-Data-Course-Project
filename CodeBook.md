@@ -80,7 +80,7 @@ Dimension : X, Y and Z measurement in an Euclidean norm
   
 ##Units
   
-  Acceleration signal from the smartphone accelerometer X,Y,Z axis : in standard gravity units "g" (m*s^-2)
+  Acceleration signal from the smartphone accelerometer X,Y,Z axis : in standard gravity units "g" (\{m*s^-2})
   
   Angular velocity vector measured by the gyroscope : rad.s^-2
   
